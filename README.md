@@ -12,7 +12,7 @@ The code in this repository is MIT licensed, so you are free to use the code. Pl
 
 #### :memo: Attribution
 
--   I used [Coolors](https://coolors.co) to experiment with color schemes. Eventually settled on [this palette](https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c).
--   Background pattern is from [Hero Patterns](https://www.heropatterns.com/).
--   Most icons are from [Hero Icons](https://heroicons.com/).
--   Deck icon is from [the Noun Project](https://thenounproject.com/term/deck-of-cards/219525/), created by Daniel Solis.
+- I used [Coolors](https://coolors.co) to experiment with color schemes. Eventually settled on [this palette](https://coolors.co/cb997e-ddbea9-ffe8d6-b7b7a4-a5a58d-6b705c).
+- Background pattern is from [Hero Patterns](https://www.heropatterns.com/).
+- Most icons are from [Hero Icons](https://heroicons.com/).
+- Deck icon is from [the Noun Project](https://thenounproject.com/term/deck-of-cards/219525/), created by Daniel Solis.
