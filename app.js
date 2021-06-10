@@ -553,18 +553,6 @@ const deckSelectionClose = function (choice) {
   get("deck-option-aws").style.pointerEvents = "none";
   get("cloud-provider-on-deck-aws").style.visibility =
     "hidden"; /* 0s transition */
-  // animate azure deck option
-  get("deck-option-azure").style.top = "-85px"; /* 0.4s transition */
-  get("deck-option-azure").style.visibility = "hidden"; /* 0.4s transition */
-  get("cloud-provider-on-deck-azure").style.visibility =
-    "hidden"; /* 0s transition */
-  get("coming-soon-text-azure").style.visibility = "hidden"; /* 0s transition */
-  // animate gcp deck option
-  get("deck-option-gcp").style.top = "-85px"; /* 0.4s transition */
-  get("deck-option-gcp").style.visibility = "hidden"; /* 0.4s transition */
-  get("cloud-provider-on-deck-gcp").style.visibility =
-    "hidden"; /* 0s transition */
-  get("coming-soon-text-gcp").style.visibility = "hidden"; /* 0s transition */
   // animate card back into place
   get("flip-card-outer-container").style.transform = `translate(0px, 0px)`;
   rotate(0);
@@ -657,8 +645,3 @@ initializeUserSession();
 changeCurrentCard();
 renderRealCard();
 get("flip-card-outer-container").style.visibility = "visible";
-
-// Enable new-card-preview when running locally
-if (document.location.origin.startsWith("file")) {
-  get("add-card-button").style.visibility = "visible";
-}
