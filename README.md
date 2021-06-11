@@ -1,3 +1,7 @@
+## Srcards -
+
+Personal clone of cloudbites, keeping docu for those interested in original fork - goal is to programatically link it ot Anki + Q/A's from TiddlyWiki + switching from cloudbased questions to general programming, etc. etc.
+
 ## :card_index_dividers: Cloudbite - bite-sized cloud learning
 
 Try it here: [https://cloudbite.attejuvonen.fi](https://cloudbite.attejuvonen.fi)
